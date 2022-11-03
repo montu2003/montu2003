@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://i.imgur.com/VeEYEkT.png" alt="Hacker" /><br>
-</p>
-
 
 <h1 align="center">Hi 👋, I'm Montu Rajkumar bamborde</h1>
 <h3 align="center">A passionate Security researcher from India</h3>
